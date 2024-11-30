@@ -22,5 +22,5 @@ git clone https://github.com/alebe16/logiboost-inventario.git
 Abre el archivo index.html en tu navegador para visualizar la página web.
 O si prefieres....
 El proyecto está disponible en GitHub Pages. Puedes verlo en acción aquí:
-[https://startbootstrap.com/theme/sb-admin-2](https://alebe16.github.io/logiboost-inventario/)
+https://alebe16.github.io/logiboost-inventario/
 
