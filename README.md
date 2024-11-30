@@ -18,9 +18,9 @@ css/styles.css: Archivo de estilos para personalizar la apariencia de la página
 
 Cómo usar el proyecto
 Clona el repositorio:
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/alebe16/logiboost-inventario.git
 Abre el archivo index.html en tu navegador para visualizar la página web.
 O si prefieres....
 El proyecto está disponible en GitHub Pages. Puedes verlo en acción aquí:
-https://tu-usuario.github.io/nombre-del-repositorio
+[https://startbootstrap.com/theme/sb-admin-2](https://alebe16.github.io/logiboost-inventario/)
 
